@@ -1,0 +1,5 @@
+﻿  Client.cpp
+c:\d\myproject\io_reuse_socket\io_reuse_client\io_reuse_client\client.cpp(67): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\d\myproject\io_reuse_socket\io_reuse_client\io_reuse_client\client.cpp(151): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  IO_Reuse_Client.vcxproj -> C:\D\MyProject\IO_Reuse_Socket\IO_Reuse_Client\x64\Debug\IO_Reuse_Client.exe
+  IO_Reuse_Client.vcxproj -> C:\D\MyProject\IO_Reuse_Socket\IO_Reuse_Client\x64\Debug\IO_Reuse_Client.pdb (Partial PDB)

@@ -1,0 +1,10 @@
+﻿  Client.cpp
+Client.cpp(67): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+Client.cpp(151): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 87 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  IO_Reuse_Client.vcxproj -> C:\D\MyProject\IO_Reuse_Socket\IO_Reuse_Client\x64\Release\IO_Reuse_Client.exe
+  IO_Reuse_Client.vcxproj -> C:\D\MyProject\IO_Reuse_Socket\IO_Reuse_Client\x64\Release\IO_Reuse_Client.pdb (Full PDB)

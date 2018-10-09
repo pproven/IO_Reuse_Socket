@@ -1,0 +1,5 @@
+﻿  Server.cpp
+Server.cpp(79): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+Server.cpp(100): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+Server.cpp(106): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\WINSOCK2.H(1848): note: 参见“inet_ntoa”的声明
